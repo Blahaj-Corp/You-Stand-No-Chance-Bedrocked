@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"2DSNerd"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.17"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	},
+	"header": {
+		"name": "You Stand No Chance Bedrocked",
+		"description": "",
+		"min_engine_version": [
+			1,
+			20,
+			60
+		],
+		"uuid": "e3378067-87e5-4a50-bb28-9f9f29a531b7",
+		"version": [
+			1,
+			0,
+			1
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "05b79228-8d2c-47bc-926e-46d542602baa",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "e5988bbc-eb76-4c9d-9dd9-4b60a568d5dd",
+			"version": [
+				1,
+				0,
+				1
+			]
+		}
+	]
+}

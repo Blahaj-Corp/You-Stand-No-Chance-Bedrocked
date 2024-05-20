@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "stand:diamondscythe_recipe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "minecraft:diamond"
+			},
+			"/": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			"###",
+			"/",
+			"/"
+		],
+		"result": {
+			"item": "stand:diamondscythe"
+		}
+	}
+}

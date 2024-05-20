@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "stand:woodscythe"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "planks"
+			},
+			"/": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			"###",
+			"/",
+			"/"
+		],
+		"result": {
+			"item": "stand:woodscythe"
+		}
+	}
+}

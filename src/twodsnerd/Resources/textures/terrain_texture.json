@@ -1,0 +1,14 @@
+{
+	"num_mip_levels": 4,
+	"padding": 8,
+	"resource_pack_name": "You Stand No Chance Bedrocked",
+	"texture_name": "atlas.terrain",
+	"texture_data": {
+		"stand_titaniumore": {
+			"textures": "textures/blocks/titaniumore"
+		},
+		"stand_titanium": {
+			"textures": "textures/blocks/titanium"
+		}
+	}
+}

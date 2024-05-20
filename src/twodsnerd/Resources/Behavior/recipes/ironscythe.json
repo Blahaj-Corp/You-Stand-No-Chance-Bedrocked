@@ -1,0 +1,25 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "stand:ironscythe"
+		},
+		"tags": [],
+		"key": {
+			"#": {
+				"item": "minecraft:iron_ingot"
+			},
+			"/": {
+				"item": "minecraft:stick"
+			}
+		},
+		"pattern": [
+			"###",
+			"/",
+			"/"
+		],
+		"result": {
+			"item": "stand:ironscythe"
+		}
+	}
+}

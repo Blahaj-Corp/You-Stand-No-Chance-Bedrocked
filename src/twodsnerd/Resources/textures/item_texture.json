@@ -1,0 +1,24 @@
+{
+	"resource_pack_name": "You Stand No Chance Bedrocked",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"stand_netheritescythe": {
+			"textures": "textures/items/netheritescythe"
+		},
+		"stand_woodscythe": {
+			"textures": "textures/items/woodscythe"
+		},
+		"stand_stonescythe": {
+			"textures": "textures/items/stonescythe"
+		},
+		"stand_ironscythe": {
+			"textures": "textures/items/ironscythe"
+		},
+		"stand_goldscythe": {
+			"textures": "textures/items/goldscythe"
+		},
+		"stand_diamondscythe": {
+			"textures": "textures/items/diamondscythe"
+		}
+	}
+}
